@@ -1,0 +1,44 @@
+html {
+    font-size: 20 px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family:'Crete Round' , sans-serif ;/* this should be the rest of the output you got from Google Fonts */    
+    text-align: center;
+    background-color: #525a9e;
+    color: aliceblue;
+  }
+
+  body{
+    width: 1150px;
+    margin: 0 auto;
+    background-color: #272d5c;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    width: 950px;
+    margin: 0 auto;
+    background-color: #3b427a;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h2{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #3b427a;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  }
+  
+  p
+   {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  a{
+    color:orange;
+  }
