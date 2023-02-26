@@ -2,7 +2,6 @@ html {
     font-size: 20 px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family:'Crete Round' , sans-serif ;/* this should be the rest of the output you got from Google Fonts */    
     text-align: center;
-    /*background-color: #525a9e; */
     background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(85, 115, 199, 0.5)),
      url("https://www.linkpicture.com/q/joystic_pattern.png") ;
     color: aliceblue;
